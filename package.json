@@ -1,0 +1,14 @@
+{
+  "name": "calculator-api",
+  "version": "1.0.0",
+  "description": "calculator api using parsefloat",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Alebiosu Gbolahan <alebsgd@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
